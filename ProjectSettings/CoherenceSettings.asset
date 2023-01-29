@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b58ca8e478745dfab801a85671962e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  consoleLogLevel: 2
+  editorLogLevel: 1
+  logSourceFilterMode: 0
+  logSourceFilterCSV: 
+  showHubSectionInfo: 1
+  showHubModuleDescription: 1
+  showHubMessageAreas: 1
+  portalToken: 
+  worldUDPPort: 32001
+  worldWebPort: 32002
+  roomsUDPPort: 42001
+  roomsWebPort: 42002
+  apiPort: 64001
+  sendFrequency: 20
+  recvFrequency: 60
+  bakeMode: 1
+  schemaBakeFolderGuid: 7e0719f3b4cd5134092dc73b2458301f
+  runtimeSettingsGuid: 488d8693c05a6f14b80e02b84ff1942c
+  prefabMapperGuid: 4d83500ce960ad141ba365a342e694d4
+  schemaBakeGenerateAsmdef: 0
+  reportAnalytics: 1
+  useToolkit: 1
+  useCoherenceSyncSchema: 1
+  useCustomSchemas: 0
+  keepConnectionAlive: 0
+  compileErrorWatchdog: 1
+  activeSchemas: []
