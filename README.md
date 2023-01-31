@@ -1,6 +1,6 @@
 # Very-simple-coherence-sample
 A very simple coherence example scene for Unity
-2021.3
+2021.3  
 
 * [Log in to your coherence dashboard](#log-in-to-your-coherence-dashboard)
 * [Clone repository](#clone-repository)
@@ -9,7 +9,9 @@ A very simple coherence example scene for Unity
 * [In coherence Portal, create a new world](#in-coherence-portal)
 * [In Unity coherence Hub, build and upload the simulator](#in-unity-coherence-hub)
 * [In coherence Portal, configure simulator](#in-coherence-portal)
-* [Optional, buld and share as WebGL](#optional)
+* [Optional, buld and share as WebGL](#optional)  
+
+![image](https://user-images.githubusercontent.com/99050073/215866805-c8313f05-2e19-4b67-bcfe-6d5250484ecc.png)  
 
 ### Log in to your coherence dashboard  
 https://coherence.io/dashboard  
